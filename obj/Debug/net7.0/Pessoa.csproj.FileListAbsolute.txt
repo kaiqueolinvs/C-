@@ -1,0 +1,15 @@
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\bin\Debug\net7.0\Pessoa.exe
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\bin\Debug\net7.0\Pessoa.deps.json
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\bin\Debug\net7.0\Pessoa.runtimeconfig.json
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\bin\Debug\net7.0\Pessoa.dll
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\bin\Debug\net7.0\Pessoa.pdb
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\Pessoa.csproj.AssemblyReference.cache
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\Pessoa.AssemblyInfo.cs
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\Pessoa.dll
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\refint\Pessoa.dll
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\Pessoa.pdb
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\Pessoa.genruntimeconfig.cache
+C:\Users\kaique oliveira\Documents\kaique\C#\Pessoa\obj\Debug\net7.0\ref\Pessoa.dll
